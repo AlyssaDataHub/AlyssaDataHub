@@ -15,7 +15,10 @@ This repository space is dedicated to exploring and understanding the world of d
 I believe a strong foundation is key to mastering any subject, and this repository reflects my efforts to develop a comprehensive understanding of **all things data**. My goal is to create a space where complex topics are simplified and made accessible to everyone, whether you are just beginning your data journey or are looking to refine your skills.  
 
 ## 🌱 I’m Currently Working On ...  
-Currently, I am working on solidifying my expertise in data analytics with an emphasis on tools like **SQL**, **Python**, **Power BI**, and **Excel**. I am creating worksheets and projects to emphasize practical applications and real-world scenarios to help myself build confidence in these essential tools.  
+Currently, I am working on a "The SQL Bubble", a repository where I will cover the basics of SQL and complete projects dealing wiht data cleanng and analysis
+
+## Upcoming ...
+Next up on the to-do list is "The Power BI Bubble" this will Include a cheat sheet and a project in which I will create a dashboard. 
 
 ## 🔭 Future Work  
 Eventually, I would like to expand my knowledge to cover the entire data ecosystem. These areas include:  
