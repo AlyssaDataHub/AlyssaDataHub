@@ -1,6 +1,6 @@
 ## About This Repo  
 Hello! 👋 Welcome to **AlyssaDataHub**!  
-This repository space is dedicated to exploring and understanding the world of data. Created January 7th, 2025, this repo serves as both a learning journey for myself and a resource hub for others who are building their foundation in data-related fields.  
+This repository space is dedicated to exploring and understanding the world of data. **Created January 7th, 2025**, this repo serves as both a learning journey for myself and a resource hub for others who are building their foundation in data-related fields.  
 
 ## What You'll Find Here  
 
